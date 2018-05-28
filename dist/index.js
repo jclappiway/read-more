@@ -113,7 +113,7 @@ return /******/ (function(modules) { // webpackBootstrap
     }
   },
 
-  data() {
+  data: function() {
     return {
       isReadMore: false
     };
